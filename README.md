@@ -19,5 +19,5 @@ Full datasets and detailed metadata are available upon request or through the pu
 
  Usage
  Clone this repository
-git clone https://github.com/suiminghao6-rgb/PWD-UAV-Hyperspectral-Analysis.git
+git clone https://github.com/suiminghao6-rgb/PWD-Hyperspectral-UAV-Detection
 cd PWD-UAV-Hyperspectral-Analysis
