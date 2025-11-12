@@ -1,7 +1,5 @@
 # PWD-Hyperspectral-UAV-Detection
 Comparative analysis of spectral methods for pine wilt disease detection using unattended UAV-based hyperspectral imagery.
-# PWD-Hyperspectral-UAV-Detection
-Comparative analysis of spectral methods for pine wilt disease detection using unattended UAV-based hyperspectral imagery.
 
 Overview
 This repository contains the codes and sample data used for the comparative analysis of spectral methods for pine wilt disease (PWD) detection based on unattended UAV hyperspectral imagery.
